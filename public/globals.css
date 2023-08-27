@@ -76,7 +76,7 @@ button:hover {
 }
 
 .turn {
-grid-column-start: 1;
+  grid-column-start: 1;
   grid-column-end: 3;
   align-self: center;
 
