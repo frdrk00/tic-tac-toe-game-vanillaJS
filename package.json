@@ -1,0 +1,9 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "license": "ISC",
+  "main": "index.js",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
