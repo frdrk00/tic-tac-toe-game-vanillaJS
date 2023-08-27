@@ -1,8 +1,10 @@
 ﻿# Tic Tac Toe Game
 
-### main Branch -> Vanilla JavaScript
- ### typescript branch -> Refactoring app to Typescript
- ### react branch -> Refactoring app to React
+###### main branch --> Vanilla JavaScript
+ ###### typescript branch --> Refactoring app to Typescript
+ ###### react branch --> Refactoring app to React
+
+ #
 
 A simple implementation of the classic Tic Tac Toe game using HTML, CSS, and JavaScript. This project provides a user interface for playing the game and keeps track of players' wins and ties. The game is designed to work in a web browser.
 
